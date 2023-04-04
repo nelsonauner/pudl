@@ -20,7 +20,11 @@ dependencies = [
     "addfips>=0.4,<0.5",
     "alembic>=1.10.3,<1.12",
     "catalystcoop.dbfread>=3.0,<3.1",
+<<<<<<< HEAD
     "catalystcoop.ferc-xbrl-extractor==0.8.3",
+=======
+    "catalystcoop.ferc_xbrl_extractor==0.8.2",
+>>>>>>> 4cc7e4dc (Update to ferc-xbrl-extractor 0.8.2)
     "coloredlogs>=14.0,<15.1",  # Dagster requires 14.0
     "dagster-webserver>=1.4,<1.5",  # 1.2.2 is first version to support Python 3.11
     "dagster>=1.4,<1.5",  # 1.2.2 is first version to support Python 3.11
